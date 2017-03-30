@@ -6,7 +6,7 @@
     "build": "rm -rf build && webpack"
   },
   "dependencies": {
-    "react-scroll-lock-component": "^0.2.1"
+    "react-scroll-lock-component": "^0.3.0"
   },
   "devDependencies": {
     "babel-cli": "^6.23.0",
