@@ -2982,9 +2982,9 @@ react-dom@^15.4.2:
     loose-envify "^1.1.0"
     object-assign "^4.1.0"
 
-react-scroll-lock-component@^0.3.0:
-  version "0.3.0"
-  resolved "http://npm.intranet.1stdibs.com:4783/react-scroll-lock-component/-/react-scroll-lock-component-0.3.0.tgz#883a1691c36fd1c2d6a1e98c952a1cca3c4d9d1d"
+react-scroll-lock-component@^1.0.0:
+  version "1.0.0"
+  resolved "http://npm.intranet.1stdibs.com:4783/react-scroll-lock-component/-/react-scroll-lock-component-1.0.0.tgz#40460f4bc728a4b29afb52f2c1e5bef3fae85faf"
 
 react@^15.4.2:
   version "15.4.2"
