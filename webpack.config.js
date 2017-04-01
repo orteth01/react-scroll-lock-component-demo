@@ -1,10 +1,11 @@
+const path = require('path');
 const webpack = require('webpack');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
-    entry:  './src/index.js',
+    entry:  path.join(__dirname, '/src/index.js'),
     output: {
-        path: './build',
+        path: path.join(__dirname, './build'),
         filename: 'bundle.js'
     },
     module: {

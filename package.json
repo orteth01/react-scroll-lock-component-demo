@@ -6,7 +6,7 @@
     "build": "rm -rf build && webpack"
   },
   "dependencies": {
-    "react-scroll-lock-component": "^1.0.0"
+    "react-scroll-lock-component": "^1.0.1"
   },
   "devDependencies": {
     "babel-cli": "^6.23.0",
@@ -16,12 +16,12 @@
     "babel-preset-react": "^6.23.0",
     "babel-preset-stage-0": "^6.22.0",
     "copy-webpack-plugin": "^4.0.1",
-    "css-loader": "^0.26.2",
+    "css-loader": "^0.28.0",
     "node-sass": "^4.5.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "sass-loader": "^6.0.2",
-    "style-loader": "^0.13.2",
+    "style-loader": "^0.16.1",
     "webpack": "^2.2.1"
   },
   "repository": {
